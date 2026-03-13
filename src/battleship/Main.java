@@ -10,7 +10,7 @@ public class Main {
         mostrarMenuInicio();
     }
     
-    // MENU DE INICIO
+    // MENU DE INICIO Pruba JIJIJIJI
     private static void mostrarMenuInicio() {
         boolean salir = false;
         
@@ -68,7 +68,7 @@ public class Main {
         }
     }
     
-    // MENU PRINCIPAL
+    // MENU PRINCIPAL jahuohahkahkhjawoijlajljl
     private static void mostrarMenuPrincipal() {
         boolean salir = false;
         
