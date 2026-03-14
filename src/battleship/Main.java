@@ -134,7 +134,7 @@ public class Main {
         battleship.iniciarJuego(usernamePlayer2);
     }
     
-    // MENU CONFIGURACION
+    // MENU CONFIGURACION wsbjkaghjahukhakha
     private static void mostrarMenuConfiguracion() {
         boolean regresar = false;
         
